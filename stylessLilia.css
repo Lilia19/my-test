@@ -1,0 +1,57 @@
+html {
+	height: 1024px;
+	width: 1024px;
+}
+body{
+	background-color: #f0fof2;
+	padding: 0;
+	margin-left: 262px;
+	margin-bottom: 50px; 
+	margin-bottom: 289px;
+	margin-right: 270px;
+}
+h1{
+	text-align: center;
+	font-size: 36px;
+	font-family: Arial;
+	font-weight: bold;
+}
+img.student {
+	padding-left: 115px;
+	width: 204px;
+	height: 204px;
+}
+p.student {
+	padding-left: 4px;
+	text-decoration-color: #1f1f1f;
+	font-size: 14px;
+	font-family: Arial;
+	font-weight: normal;
+	text-align: left;
+}
+h3{
+	font-size: 18px;
+	text-align: left;
+	font-family: Myriad Pro Bold;
+	font-weight: bold;
+}
+ul{
+	font-size: 14px;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-weight: normal;
+}
+dd {
+	font-size: 14px;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-weight: normal;
+}
+dd a {
+	font-size: 14px;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-weight: normal;
+	color: #0056d3
+}
+
